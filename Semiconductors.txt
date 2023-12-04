@@ -1,0 +1,6 @@
+A semiconductor is a material with electrical conductivity between that of
+a conductor and an insulator.
+
+This property makes it an excellent medium for the control of electrical
+current. Semiconductors are the foundation of modern electronics,
+including transistors, diodes, and integrated circuits.
