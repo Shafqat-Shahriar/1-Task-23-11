@@ -1,0 +1,10 @@
+N-type semiconductors have
+extra electrons (negative
+charge carriers) due to
+doping with elements like
+phosphorus.
+
+P-type semiconductors have
+holes (positive charge
+carriers) due to doping with
+elements like boron.
