@@ -1,0 +1,13 @@
+Definition: Light sensors are a type of photodetector (also called photosensors) that detect light.
+Different types of light sensors can be used to measure illuminance, respond to changes in the
+amount of light received, or convert light to electricity.
+
+Light sensors work by the photoelectric effect. Light can behave as a particle, referred to as a photon.
+When a photon hits the metal surface of the light sensor, the energy of the light is absorbed by the
+electrons, increasing their kinetic energy and allowing them to be emitted from the material. This
+movement of electrons, and therefore charge, is electrical current.
+
+The photovoltaic effect is similar to the photoelectric effect in that the light is absorbed by electrons,
+causing them to be in a higher-energy state. In the photoelectric effect, the electrons are ejected
+from the material completely. In the photovoltaic effect, the electrons are excited from the valence
+band into the conduction band, but remain within the same material.
