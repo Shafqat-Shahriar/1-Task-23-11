@@ -1,0 +1,7 @@
+Measuring performance of Algorithms
+
+We can evaluate an algorithm’s performance in four ways:
+ Completeness: Is the algorithm guaranteed to find a solution when there is one?
+ Optimality: Does the strategy find the optimal solution, as defined on page 68?
+ Time complexity: How long does it take to find a solution?
+ Space complexity: How much memory is needed to perform the search?
