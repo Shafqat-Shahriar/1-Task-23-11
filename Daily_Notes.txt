@@ -20,3 +20,8 @@ Task: Event / Work / Practice:
 # AI Hill climb search and many more..... Lecture(AI class)
 # Django Project ( front end design )
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: 12/12/23
+Task: 
+# Project Meeting 
