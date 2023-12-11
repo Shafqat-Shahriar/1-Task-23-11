@@ -1,0 +1,22 @@
+Note taking format:
+++++++++++++++++++
+
+Date: DD/MM/YY 
+Task: Event / Work / Practice :
+# Pyhton cod.....
+# Website build....
+# AI Research....
+# University study...
+# Cafe visit....
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Date: 11/12/23
+Task: Event / Work / Practice:
+# Computer Organizational and Architecutre floating system, dobules ...... Lecture (Assembly level Programming)
+# Watched Q* algorithm (Youtube)
+# AI Hill climb search and many more..... Lecture(AI class)
+# Django Project ( front end design )
+
