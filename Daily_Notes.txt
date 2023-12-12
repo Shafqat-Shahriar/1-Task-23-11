@@ -25,3 +25,6 @@ Task: Event / Work / Practice:
 Date: 12/12/23
 Task: 
 # Project Meeting 
+# System Analysis Project ,making front end pages ...... a little bit of Django Backend 
+# University lecture SAD ( Use case diagram  exercises and case study)
+# Applied AI Research lab. Meeting ( Agricultural water collection...... {Need to make slides for Bangladesh geographical biome} )
