@@ -28,3 +28,17 @@ Task:
 # System Analysis Project ,making front end pages ...... a little bit of Django Backend 
 # University lecture SAD ( Use case diagram  exercises and case study)
 # Applied AI Research lab. Meeting ( Agricultural water collection...... {Need to make slides for Bangladesh geographical biome} )
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: 13/12/23
+Task: 
+# Attended University System Analysis Design Lecture on Cost Benefit Analysis
+# Done a bit of assembly coding for the Assembly project
+# Got sick with fever at maghrib and the rest of the day was wasted.
+
+********************************************************************************************************
+
+Date: 14/12/23
+# Woke up at 3 am at night after fever, feeling good. Watching GOlang videos and coding 
+
