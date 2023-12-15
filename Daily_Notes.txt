@@ -41,4 +41,8 @@ Task:
 
 Date: 14/12/23
 # Woke up at 3 am at night after fever, feeling good. Watching GOlang videos and coding 
+# AI Lab Project( Data Classificattion )
+# AI ( statistical maths practice )
+# CS50 AI videos ( watched )
+# SAD project team meeting
 
