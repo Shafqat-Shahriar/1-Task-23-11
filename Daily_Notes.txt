@@ -49,11 +49,29 @@ Date: 14/12/23
 ********************************************************************************************************
 
 Date: 15/12/23
-# Feeling unwell so slept early at 11 
+# Feeling unwell so slept early at 11pm 
 # AI Lab Project( Data Classificattion )
 # Assembly coding...
 # revised SAD Lectures...
 # revised Elect.. Circ.. Analysis lect...
+
+********************************************************************************************************
+
+Date: 16/12/23
+# Computer Organ... Architec... Lecture revision
+# AI Lab Project( Data Classificattion ) complete case closed -- submitted
+# Assembly coding...
+# revised SAD Lectures...
+# revised Elect.. Circ.. Analysis lect...
+
+********************************************************************************************************
+
+Date: 17/12/23
+# SAD project work( handling errors and development)
+# University lectures revision
+# Assembly language project discussion
+# revised Elect.. Circ.. Analysis lect...
+
 
 
 
