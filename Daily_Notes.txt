@@ -71,6 +71,7 @@ Date: 17/12/23
 # University lectures revision
 # Assembly language project discussion
 # revised Elect.. Circ.. Analysis lect...
+# Reading a book due to burnout( tired for today)
 
 
 
