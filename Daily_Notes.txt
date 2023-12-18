@@ -78,8 +78,8 @@ Date: 17/12/23
 Date: 18/12/23
 # SAD project work( handling errors and development)
 # University lectures COMP..Arch.. Design - Lecutre
-# AI lecutre .....
-# 
+# AI lecutre  - Simulated Annealing Process, Local Beam Search, Genetic Algorithms
+# Will spend the following day coding the following Algorithms.
 
 
 
