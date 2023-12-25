@@ -108,8 +108,41 @@ Date: 21/12/23
 # lab work of Electrical Circuit Analysis
 # Met the new DEAN 
 
+********************************************************************************************************
+
+Date: 22/12/23
+
+# Artificial Intelligence lecture review
+# GO_lang videos
+# Assembly language coding
+# Python practice
+
+********************************************************************************************************
+
+Date: 23/12/23
+
+# Golang videos
+# Computer Organization and Architecture (lecture review)
+# System Analysis and Design (assignment)
+# Golang Practice
 
 
 
+********************************************************************************************************
+
+Date: 24/12/23
+
+# assembly language code (8086) Function
+# Electrical cirucit analysis (assignment)
+# System Analysis Design (project) 
+# golang videos and lecture reviewed
+ 
 
 
+********************************************************************************************************
+
+Date: 25/12/23
+
+# went outside
+# Watched videos on golang review
+# System analysis design project (unknown)bug fixing 
