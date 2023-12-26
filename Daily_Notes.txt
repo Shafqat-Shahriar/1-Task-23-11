@@ -146,3 +146,14 @@ Date: 25/12/23
 # went outside
 # Watched videos on golang review
 # System analysis design project (unknown)bug fixing 
+
+
+********************************************************************************************************
+
+Date: 26/12/23
+
+# System Analysis Design Lecture (system management)
+# Artificial Intelligence Lectiure 
+# Ai Project reporting presenntation
+# System Analysis Project tasks (coding) 
+
