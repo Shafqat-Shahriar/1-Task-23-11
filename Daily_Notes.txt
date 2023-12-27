@@ -157,3 +157,16 @@ Date: 26/12/23
 # Ai Project reporting presenntation
 # System Analysis Project tasks (coding) 
 
+********************************************************************************************************
+
+Daate: 27/12/23
+
+# went to Bank
+# Computer Organization and Architecture Lecture .....
+# Assembly Language class
+# Artifical Intelligence Lecture ......
+# System Analysis and Design Backend coding (unfinished)
+# Golang coding practice
+
+
+
