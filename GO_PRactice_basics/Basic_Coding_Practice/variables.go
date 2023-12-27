@@ -22,4 +22,10 @@ func main() {
     // Change the value of f
     f = "banana"
     fmt.Println("Updated value of f:", f)
+    
+    /* 
+    Using " := " is a concise way of declaring and initializing variables, 
+    especially when the type can be inferred from the right-hand side 
+    of the assignment. It's commonly used in shorter variable 
+    declarations within functions or local scopes. */
 }
