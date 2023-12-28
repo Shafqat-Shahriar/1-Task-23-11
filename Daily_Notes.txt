@@ -159,7 +159,7 @@ Date: 26/12/23
 
 ********************************************************************************************************
 
-Daate: 27/12/23
+Date: 27/12/23
 
 # went to Bank
 # Computer Organization and Architecture Lecture .....
@@ -168,5 +168,15 @@ Daate: 27/12/23
 # System Analysis and Design Backend coding (unfinished)
 # Golang coding practice
 
+********************************************************************************************************
+
+Date: 28/12/23
+
+# System Analysis Design Lecture......
+# Electrical Circuit Analysis(ECA) Lecture........
+# ECA Lab........
+# Club work.....
+# Meeting with the DEAN
+# AI Algorithm studying....
 
 
