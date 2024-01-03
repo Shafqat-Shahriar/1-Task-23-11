@@ -208,5 +208,17 @@ Date: 1/1/24
 # AI Last Lecture before exams
 # AI lab
 
+********************************************************************************************************
+Date: 2/1/24
+
+# Vacation
+
+********************************************************************************************************
+Date: 3/1/24
+
+# AI lecture revision for exam
+# Computer Organizational and Architecture lecture revision for exam
+# Assembly language class
+
 
 
