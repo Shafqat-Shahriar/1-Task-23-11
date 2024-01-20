@@ -1,0 +1,8 @@
+Date: 20/1/24
+
+Task:
+# Go lang videos revision
+# Go lang practice
+# Revised what I learned from my System Analysis Design subject, planning what should I learn next for it
+# Revised what I learned from my Artificial Intelligence subject, planning on what further to learn
+# Harvard CS50 videos on AI
