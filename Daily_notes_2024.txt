@@ -7,3 +7,16 @@ Task:
 # Revised what I learned from my Artificial Intelligence subject, planning on what further to learn
 # Harvard CS50 videos on AI
 # turning an old projects script to golang
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: 21/1/24
+
+Task:
+# Go lang videos revision
+# Go lang practice
+# Drafting a project plan to submit for my upcoming semester Electronic Project
+# Preparing Application for upcoming GSOC and MLH fellowship events
+# house chores and  works
+# watched videos on Operating system for upcoming semester Operating system subject
