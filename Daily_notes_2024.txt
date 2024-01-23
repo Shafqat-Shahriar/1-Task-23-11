@@ -20,3 +20,26 @@ Task:
 # Preparing Application for upcoming GSOC and MLH fellowship events
 # house chores and  works
 # watched videos on Operating system for upcoming semester Operating system subject
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: 22/1/24
+
+Task:
+# University club work for upcoming semester
+# Went outside due to work
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: 23/1/24
+
+Task:
+# Preparing Applications for upcoming GSOC and MLH fellowship events: updating Resume and other materials
+# watched videos on Operating system for upcoming semester Operating system subject
+# Golang revision
+# golang videos
+# turnging an old project sourcecode into golang 
+
