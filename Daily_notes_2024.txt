@@ -43,3 +43,11 @@ Task:
 # golang videos
 # turnging an old project sourcecode into golang 
 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Date: 24/1/24
+
+Task:
+# Read books and watched videos based on my hobbies, genre( war, psychology, trauma, strategy, leadership, military)
