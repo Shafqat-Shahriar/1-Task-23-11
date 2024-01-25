@@ -50,4 +50,19 @@ Task:
 Date: 24/1/24
 
 Task:
-# Read books and watched videos based on my hobbies, genre( war, psychology, trauma, strategy, leadership, military)
+# Read books and watched movie based on my hobbies, genre( war, psychology, trauma, strategy, leadership, military)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Date: 25/1/24
+
+Task:
+# practiced go lang
+# did some golang exercises and problem solving
+# software development
+# working on project
+# PSQL database system with django
+
+
+
