@@ -64,5 +64,14 @@ Task:
 # working on project
 # PSQL database system with django
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+Date: 26/1/24
+
+Task:
+# practiced go lang
+# fixing a bug code and sysytem bug,( wasted an entire 4 hours)
+# software development
+# working on project
+# learning about thermodynamics before studying its algorithm
 
