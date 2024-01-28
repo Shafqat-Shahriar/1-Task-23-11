@@ -75,3 +75,13 @@ Task:
 # working on project
 # learning about thermodynamics before studying its algorithm
 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: 27/1/24
+
+Task: 
+# Go lang videos 
+# software development
+# golang practice
+# coding
