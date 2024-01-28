@@ -85,3 +85,17 @@ Task:
 # software development
 # golang practice
 # coding
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: 28/1/24
+
+Task:
+# Doing some research on this years GSOC event
+# Watching videos and preparation for letter application
+# Learning about AI assistants 
+# skill practice
+# oraganized my PC files and documents for the coming semester
+
+
+
