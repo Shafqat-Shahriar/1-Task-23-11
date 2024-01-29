@@ -98,5 +98,11 @@ Task:
 # oraganized my PC files and documents for the coming semester
 # played chess with friends for recreation
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+Date: 29/1/24
+
+Task: 
+# Reading the Introduction to GO by Caleb Doxy 
+# Reading CLoud Native go
 
