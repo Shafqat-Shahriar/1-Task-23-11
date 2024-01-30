@@ -106,3 +106,10 @@ Task:
 # Reading the Introduction to GO by Caleb Doxy 
 # Reading CLoud Native go
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: Date: 30/1/24
+
+Task:
+# doing golang exercises
+# watched golang videos and some past videos 
+# python coding
