@@ -113,3 +113,15 @@ Task:
 # doing golang exercises
 # watched golang videos and some past videos 
 # python coding
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Date: 3/2/24
+
+
+# doing golang exercises
+# watched golang videos and some past videos 
+# python coding
