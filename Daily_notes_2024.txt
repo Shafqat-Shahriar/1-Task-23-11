@@ -125,3 +125,23 @@ Date: Date: 3/2/24
 # doing golang exercises
 # watched golang videos and some past videos 
 # python coding
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Date: 4/2/24
+
+
+# doing golang exercises
+# watched golang videos and some past videos 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: Date: 5/2/24
+
+
+# done golang exercises
+# watched golang videos and some past videos 
+# university classes: 
+  = Information and System Management
+  = Computational Theory
+
+
