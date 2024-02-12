@@ -187,3 +187,7 @@ Date: Date: 11/2/24
 # Read books 
 # practiced my skills
 
+Date: Date: 12/2/24
+# University
+# Studies 
+# programming
