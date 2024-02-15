@@ -180,19 +180,33 @@ Date: Date: 10/2/24
 # 3d printing workshop seminar, volunteered at the event, in my University. 
 
 
-Date: Date: 11/2/24
+Date: 11/2/24
 
 # Golang study
 # Researched on recent AI news and etc
 # Read books 
 # practiced my skills
 
-Date: Date: 12/2/24
+Date: 12/2/24
 # University
 # Studies 
 # programming
 
-Date: Date: 13/2/24
+Date: 13/2/24
 # University(OS, Numerical  Analysis) 
 # Studies 
 # programming
+
+Date: 14/2/24
+
+# University( theory of computation and Informationa and system mannagement)
+# studies
+# golang programming 
+
+Date: 15/2/24
+
+# University( Numerical analysis and operating system)
+# statistica
+# golang programming and python programming, django 
+
+
