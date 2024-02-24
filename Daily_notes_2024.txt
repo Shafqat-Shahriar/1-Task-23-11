@@ -216,9 +216,12 @@ Date: 16/2/24
 # AI research , news and trends
 # golang programming and python programming, django 
 
+
+
 Date: 24/2/24
 # university assignments
 # golang practice exercises
 # frontend dev practice
+# problem solving
 
 
