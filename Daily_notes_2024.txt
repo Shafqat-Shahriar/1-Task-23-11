@@ -230,4 +230,10 @@ Date: 25/2/24
 # Watched golang videos
 # Theory of Computation assignments
 
+Date: 26/2/24
+# Solved problems in Hacker Rank
+# Class test preparation
+# Numerical Analysis practice
+
+
 
