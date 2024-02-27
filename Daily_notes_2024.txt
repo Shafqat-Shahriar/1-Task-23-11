@@ -241,5 +241,5 @@ Date: 27/2/24
     + Operating System
     + Numerica Analysis
 
-# Preparing for tommorows quiz
+# Preparing for tommorows Information Management System quiz
 
