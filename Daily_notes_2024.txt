@@ -235,5 +235,11 @@ Date: 26/2/24
 # Class test preparation
 # Numerical Analysis practice
 
+Date: 27/2/24
+# Solved problems in Hacker Rank (GO)
+# University:
+    + Operating System
+    + Numerica Analysis
 
+# Preparing for tommorows quiz
 
