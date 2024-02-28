@@ -243,3 +243,9 @@ Date: 27/2/24
 
 # Preparing for tommorows Information Management System quiz
 
+
+Date: 28/2/24
+# University: 
+     # quiz went well
+     # Theory of computation , DFA .....
+
