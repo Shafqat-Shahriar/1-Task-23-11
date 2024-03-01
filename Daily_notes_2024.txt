@@ -249,3 +249,13 @@ Date: 28/2/24
      # quiz went well
      # Theory of computation , DFA .....
 
+Date:
+# Uiversity:
+     + Operating System Theory Class 
+     + Operating System Lab
+     + Numerical Analysis , Lecture on topic 3 ( Gausian equation )
+
+Date: 01/3/24
+# Solved 10 problems in Hacker Rank
+# University: Assignment OS done
+# practicing for Numerical Analysis class test 
