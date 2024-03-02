@@ -259,3 +259,11 @@ Date: 01/3/24
 # Solved 10 problems in Hacker Rank
 # University: Assignment OS done
 # practicing for Numerical Analysis class test 
+
+
+Date: 02/3/24
+
+# Practiced coding golang 
+# solved 10 hacker ranks problems
+# analyzed problems
+# Speaking practice, English comprehension practice
