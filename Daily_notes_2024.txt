@@ -267,3 +267,16 @@ Date: 02/3/24
 # solved 10 hacker ranks problems
 # analyzed problems
 # Speaking practice, English comprehension practice
+
+
+Date: 03/3/24
+
+# Practiced coding golang 
+# solved 4 hacker ranks problems
+# Numerical Analysis practice for class test | practice maths of 3 chapters
+
+Date: 04/3/24
+
+# Practiced coding golang 
+# Numerical Analysis practice for class test | practice maths of 3 chapters
+
