@@ -280,3 +280,21 @@ Date: 04/3/24
 # Practiced coding golang 
 # Numerical Analysis practice for class test | practice maths of 3 chapters
 
+Date: 05/3/24
+
+# Practiced coding golang 
+University: 
+       +  Numerical Ana... CT was good
+       +  Operating System 
+
+
+Date: 06/3/24
+
+# Practiced coding golang 
+# Done Mini golang Project
+University: 
+       +  Information and System Management
+       +  Theory of Computation
+
+
+
