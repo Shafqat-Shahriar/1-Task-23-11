@@ -310,3 +310,14 @@ Date: 8/3/24
 # Outside Dhaka
 
 Date: 9/3/24
+
+# Practiced Data Structre and Algorithms
+# Solved Problems on HackerRank
+# golang practice
+
+Date: 10/3/24
+
+# Practiced Data Structre and Algorithms
+# reviewing my skillset
+# golang practice
+
