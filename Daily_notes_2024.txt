@@ -321,3 +321,12 @@ Date: 10/3/24
 # reviewing my skillset
 # golang practice
 
+Date: 11/3/24
+
+# University :
+    + Information Management System
+    + Theory of Computation
+
+
+
+
