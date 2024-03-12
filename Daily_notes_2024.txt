@@ -327,6 +327,13 @@ Date: 11/3/24
     + Information Management System
     + Theory of Computation
 
+Date: 12/3/24
+
+# University: 
+    + Numerical Analysis
+    + Operating system
+# preparation for tomorrows theory of computation CT
+
 
 
 
