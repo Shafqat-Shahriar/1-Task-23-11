@@ -334,6 +334,21 @@ Date: 12/3/24
     + Operating system
 # preparation for tomorrows theory of computation CT
 
+Date: 13/3/24
+
+# University:
+     + Information System Management
+     + Theory of Computation quiz // got full marks
+# making a project with python to submit in a hackathon to fullfill certain criteria in entering an event
+
+Date: 14/3/24
+
+# University: 
+     + NUmerical Analysis
+     + Operating System
+# submitted the project 
+
+
 
 
 
