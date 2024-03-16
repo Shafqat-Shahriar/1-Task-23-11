@@ -341,12 +341,20 @@ Date: 13/3/24
      + Theory of Computation quiz // got full marks
 # making a project with python to submit in a hackathon to fullfill certain criteria in entering an event
 
+
 Date: 14/3/24
 
 # University: 
      + NUmerical Analysis
      + Operating System
 # submitted the project 
+
+Date: 15/3/24
+
+# Numerical Analysis maths practice
+# Theory of Commputation Midterm syllabus revision
+# golang code practice
+# hackathon project idea brainstorm
 
 
 
