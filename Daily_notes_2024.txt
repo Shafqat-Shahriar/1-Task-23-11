@@ -356,6 +356,12 @@ Date: 15/3/24
 # golang code practice
 # hackathon project idea brainstorm
 
+Date: 16/3/24 
+
+# Golang project 
+# front end coding and wireframing
+# Information and system management practice
+
 
 
 
