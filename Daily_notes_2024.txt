@@ -363,6 +363,9 @@ Date: 16/3/24
 # Information and system management practice
 
 
+Date: 19/3/24
+
+# golang project( ran into technical errors and bugs)
 
 
 
